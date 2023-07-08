@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Poppins&family=Ubuntu&display=swap');
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.navbar{
+    background-color:  #0C233B;
+    color: white ;
+    
+}
+
+  a{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 400;
+    
+}
+.navbar-nav{
+    margin-right: 18px;
+}
+
+#btn{
+    background-color: #FFFFFF;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 30px;
+    color: black;
+  
+}
+
+ .fas{
+  font-size: 20px;
+ 
+
+}
+.row input{
+
+height: 45px;
+margin-left: 15px;
+border: 1px solid black;
+outline-style: none;
+border-radius: 10px;
+color: rgba(111, 105, 105, 0.411);
+font-size: large;
+padding-left: 40px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+background: url("img/search-interface-symbol\ 1.svg") no-repeat left;
+background-size: 25px;
+
+
+}
+
+.d-flex p{
+margin-top: 9px;
+font-size: 12px;
+
+}
+
+span{
+    width: 50px; height: 10px; margin-left: 0; font-weight: bolder;
+    border-bottom: 2px solid rgba(12, 35, 59, 1);
+    position: relative;
+    bottom: 15px;
+}
+
+ #st{
+border: 1px solid black;
+
+padding-left: 14px;
+padding-right: 14px;
+padding-top: 4px;
+padding-bottom: 4px;
+border-radius: 30px;
+margin-right: 10px;
+background: transparent;
+}
+
+#profile{
+
+    border: 1px solid rgba(166, 164, 164, 1);
+    width: 775px;
+    height: 330px;
+  
+    border-radius: 10px;
+    font: 'Gilroy-Bold', sans-serif;
+}
+
+#profile h3{
+    color: rgba(75, 174, 79, 1);
+    font-weight: bold;
+}
+#profile .lst-p{
+    border-bottom: 0.2px solid rgba(0, 0, 0, 0.3);
+}
+#btn-2{
+    background-color: rgba(22, 120, 251, 0.1);
+    border-radius: 16px;
+    padding: 5px 8px 5px 10px;
+    margin-right: 15px;
+    margin-top: -5px;
+}
+
+.pera{
+    border-top: 0.2px solid rgba(0, 0, 0, 0.3);
+}
+
+#last-el .d-flex .p-0{
+margin-bottom: 7px;
+  
+}
+#last-el{
+    border-left: 0.2px solid rgba(0, 0, 0, 0.3);
+   padding-right: 10px;
+}
+#last-el .p-1{
+    font-size: 11px;
+    color: rgba(12, 35, 59, 1);
+    font-weight: bold;
+}
+#last-el .d-flex{
+    gap: 5px;
+}
+
+#pera-title{
+    margin-top: -28px;
+    margin-right: 36px;
+}
+
+#pera-title .p-0{
+    font-size: 8px;
+}
+
+#last-el .d-flex .btn{
+    background: rgba(12, 35, 59, 1);
+   color: #FFFFFF;
+  width: 150px;
+  height: 40px;
+}
+
+#About{
+    background-color: rgba(28, 30, 40, 1);
+    height: 342px;
+    font-size: 10px;
+    color: #FFFFFF;
+    
+}
+#About p{
+    color: #858282;
+}
+#About .list-unstyled li  i{
+    color: #858282;
+}
+#About .list-unstyled li  a{
+    font-size: 10px;
+    color: #858282;
+}
+#About .list-unstyled li {
+    font-size: 10px;
+    margin-bottom:10px ;
+  
+}
+#About .row{
+    border-bottom: 1px solid white;
+}
